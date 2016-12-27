@@ -1,0 +1,8 @@
+## Interface: 71000
+## Title: AirjRaidHud
+## Version: 1.0
+## Author: Airj
+## RequiredDeps: Ace3
+
+#embeds.xml
+AirjRaidHud.lua
